@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luc45_oficial?igshid=NzZhOTFIYzFmZQ==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-junio-pereira-lima-1ba0a01a3/)
 
-(![LucasJunioDev GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasJunioDev&show_icons=true&theme=transparent))
+![LucasJunioDev GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasJunioDev&show_icons=true&theme=transparent)
 
 ## Tecnologias que estou aprendendo e tenho interesse
 <div style="display:inline-block"><br>
